@@ -14,6 +14,8 @@ public class AddToCartTest {
 @Test
 public void removeCartTest() {
 	System.out.println("product removed");
+	System.out.println(" sample");
+	
 }
 	
 	
